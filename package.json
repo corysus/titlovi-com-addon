@@ -1,0 +1,12 @@
+{
+	"name": "titlovi-com-addon",
+	"version": "2.0.0",
+	"description": "Stremio addon for subtitles from portal titlovi.com.",
+	"author": "Almir Dzidic",
+	"scripts": {
+		"start": "node addon"
+	},
+	"dependencies": {
+		"express": "4.17.1"
+	}
+}
