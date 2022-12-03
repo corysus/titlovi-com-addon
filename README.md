@@ -24,20 +24,20 @@ npm start
 Open stremio addons and copy/paste url http://127.0.0.1:3050/manifest.json
 
 Before use, you must configure addon by clicking on **Configure** button *(confirm to leave stremio on next screen)*.
-![step1](https://titlovi-server.herokuapp.com/install/1.png)
+![step1](https://titlovi-stremio-server.onrender.com/install/1.png)
 
 Enter your username/password from titlovi.com and choose if you want to convert cyrilic to latin.
-![step1](https://titlovi-server.herokuapp.com/install/3.png)
+![step1](https://titlovi-stremio-server.onrender.com/install/3.png)
 
 After you success login you will get your unique url that you need to add to stremio by clicking to button or by copy/paste generated url.
-![step1](https://titlovi-server.herokuapp.com/install/4.png)
+![step1](https://titlovi-stremio-server.onrender.com/install/4.png)
 
 Click on install button to finish installation of addon.
-![step1](https://titlovi-server.herokuapp.com/install/5.png)
+![step1](https://titlovi-stremio-server.onrender.com/install/5.png)
 
 ## Using remotely
 
-- Open https://titlovi-server.herokuapp.com/configure and login to your titlovi.com account *(also you can choose do you want to convert cyrillic to latin by checking box)*.
+- Open https://titlovi-stremio-server.onrender.com/configure and login to your titlovi.com account *(also you can choose do you want to convert cyrillic to latin by checking box)*.
 - After success login you can click on button to open Stremio and install addon or copy/paste generated link to your Stremio to install addon.
 
 ___
