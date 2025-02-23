@@ -1,3 +1,7 @@
+# Note
+This repository is no longer in use, for the new add-on version use the new URL: [https://github.com/corysus/stremio-subtitles-addon](https://github.com/corysus/stremio-subtitles-addon)
+___
+
 # Titlovi.com Stremio Subtitle Addon v2
 
 This addon will provide subtitles for movies & series from portal titlovi.com.
